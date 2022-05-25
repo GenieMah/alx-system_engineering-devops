@@ -1,2 +1,1 @@
-#!/bin/bash
- Learning the bsics of shell
+Learning the basics of shell
