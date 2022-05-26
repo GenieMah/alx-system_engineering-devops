@@ -1,1 +1,2 @@
-Learning the basics of shell
+#!/bin/bash
+ Script that grants permissions
