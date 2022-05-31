@@ -1,3 +1,2 @@
 #!/bin/bash
- echo -e {a..z}"
-"| grep 00 -v | tail -303 | -10
+ echo -e {a..z}"\n"| grep 00 -v | tail -303 | head -10
