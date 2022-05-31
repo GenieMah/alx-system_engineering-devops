@@ -1,2 +1,3 @@
 #!/bin/bash
- printenv id="hello user"
+ echo 'Hello $USER'
+
